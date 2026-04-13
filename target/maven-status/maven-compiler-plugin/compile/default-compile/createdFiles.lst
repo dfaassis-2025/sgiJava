@@ -1,9 +1,0 @@
-br\com\theaxis\aula3\task\TaskModel.class
-br\com\theaxis\aula3\user\UserController.class
-br\com\theaxis\aula3\task\TaskController.class
-br\com\theaxis\aula3\task\ITaskRepository.class
-br\com\theaxis\aula3\user\IUserRepository.class
-br\com\theaxis\aula3\Aula3Application.class
-br\com\theaxis\aula3\utils\Utils.class
-br\com\theaxis\aula3\user\UserModel.class
-br\com\theaxis\aula3\filter\FilterTaskAuth.class
